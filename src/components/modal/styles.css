@@ -1,0 +1,32 @@
+.dialog-backdropactive {
+  display: block;
+}
+
+.modal-content {
+  font-size: 1.5rem;
+  border: 4px solid #b51963;
+  border-radius: 16px;
+  width: 50%;
+}
+
+.modal-sub-border {
+  color: white;
+  background-color: #b51963;
+  padding: 8px;
+  border: 4px solid #b51963;
+  margin: 8px;
+  border-radius: 16px;
+}
+
+.modal-button {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin: 4px;
+  color: #b51963;
+  background-color: white;
+  border-radius: 16px;
+}
+
+.modal-button:focus-visible {
+  outline: 4px solid black;
+}

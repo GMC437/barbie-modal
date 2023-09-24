@@ -1,0 +1,12 @@
+.action-button {
+  font-size: 1.5rem;
+  padding: 16px;
+  margin: 4px;
+  color: white;
+  background-color: #b51963;
+  border-radius: 16px;
+}
+
+.action-button:focus-visible {
+  outline: 4px solid black;
+}
